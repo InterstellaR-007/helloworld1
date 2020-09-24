@@ -13,7 +13,7 @@ namespace helloworld
             addition cal = new addition();
             int c = cal.AddNumber(4, 5);
 
-            //Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
             //string xyz = Console.ReadLine();
             Console.WriteLine(c);
 
